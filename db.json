@@ -1,0 +1,13 @@
+"10", "Bernd Bruegge", "Object Oriented Software Engineering", 2
+[
+  {
+    "id": "10",
+    "author": "Bernd Bruegge",
+    "title": "Object Oriented Software Engineering",
+    "amount": 2
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
+  }
+]
