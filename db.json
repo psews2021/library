@@ -1,4 +1,3 @@
-"10", "Bernd Bruegge", "Object Oriented Software Engineering", 2
 [
   {
     "id": "10",
@@ -7,7 +6,9 @@
     "amount": 2
   },
   {
-    "id": 3,
-    "title": "Post 3"
+    "id": 5,
+    "author": "Frank Buschmann",
+    "title": "Pattern-Oriented Software Architecture Volume 1: A System of Patterns",
+    "amount": 5
   }
 ]
