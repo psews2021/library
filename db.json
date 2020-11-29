@@ -1,4 +1,5 @@
-[
+{
+  "books": [
   {
     "id": "10",
     "author": "Bernd Bruegge",
@@ -11,4 +12,5 @@
     "title": "Pattern-Oriented Software Architecture Volume 1: A System of Patterns",
     "amount": 5
   }
-]
+  ]
+}
